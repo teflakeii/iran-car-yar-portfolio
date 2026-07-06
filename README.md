@@ -10,6 +10,13 @@ The production/source repository remains private.
 
 ![IranCarYar customer app](docs/screenshots/iran-car-yar-home.png)
 
+## 30-Second Snapshot
+
+- What it is: a roadside assistance platform for customers, responders, and admins.
+- Core value: demonstrates dispatch, role-based workflows, realtime status updates, and mobile-ready UX.
+- Engineering focus: FastAPI backend, React/Vite frontend, WebSocket events, database migrations, Docker validation, and AI-assisted project documentation.
+- Public scope: portfolio documentation only; the full source repository remains private.
+
 ## Overview
 
 IranCarYar models a complete roadside assistance flow:
@@ -74,6 +81,10 @@ A public hosted demo is not currently available. The screenshot in this reposito
 
 See [docs/demo.md](docs/demo.md) for the available demo material.
 
+## Installation
+
+This public repository is not intended to be installed or run. It is a portfolio case study that intentionally excludes the private backend, frontend, database, and deployment source files.
+
 ## Folder Structure
 
 ```text
@@ -112,4 +123,3 @@ Those files are documentation and development aids only. They do not affect runt
 ## Public Release Status
 
 The main `iran-car-yar` source repository remains private. This repository is the public-facing portfolio version and is safe to share with recruiters or hiring managers.
-

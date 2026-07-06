@@ -7,6 +7,7 @@ The screenshot under `docs/screenshots/` was captured from the real IranCarYar f
 ## Current Assets
 
 - `docs/screenshots/iran-car-yar-home.png`: customer-facing UI screenshot.
+- `docs/demo/iran-car-yar-demo-muted.mp4`: muted demo recording captured from the project UI.
 - `docs/architecture.md`: architecture, request lifecycle, and deployment topology diagrams.
 
 ## Future Demo Assets
@@ -16,4 +17,3 @@ The screenshot under `docs/screenshots/` was captured from the real IranCarYar f
 - Admin dashboard walkthrough.
 
 These should be captured from demo/mock data only.
-

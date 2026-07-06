@@ -77,7 +77,9 @@ See [docs/architecture.md](docs/architecture.md) for the system overview and req
 
 ## Demo
 
-A public hosted demo is not currently available. The screenshot in this repository was captured from the real project UI running in mock frontend mode.
+A public hosted demo is not currently available. The screenshot and muted demo video in this repository were captured from the real project UI running in mock frontend mode.
+
+- Demo video: [muted IranCarYar recording](docs/demo/iran-car-yar-demo-muted.mp4)
 
 See [docs/demo.md](docs/demo.md) for the available demo material.
 

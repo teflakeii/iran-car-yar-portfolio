@@ -2,11 +2,12 @@
 
 This public repository does not include runnable application source code.
 
-The screenshot under `docs/screenshots/` was captured from the real IranCarYar frontend running in mock UI mode. It is included for portfolio presentation and does not contain customer, payment, credential, or private operational data.
+The screenshot and demo recordings were captured from the real IranCarYar frontend running in mock UI mode. They are included for portfolio presentation and do not contain customer, payment, credential, or private operational data.
 
 ## Current Assets
 
 - `docs/screenshots/iran-car-yar-home.png`: customer-facing UI screenshot.
+- `docs/demo/iran-car-yar-demo-preview.gif`: optimized 8-second GIF preview for GitHub README rendering.
 - `docs/demo/iran-car-yar-demo-muted.mp4`: muted demo recording captured from the project UI.
 - `docs/architecture.md`: architecture, request lifecycle, and deployment topology diagrams.
 

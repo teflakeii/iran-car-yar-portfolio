@@ -8,7 +8,7 @@ IranCarYar is a roadside assistance MVP designed for customers, responders, and 
 
 The production/source repository remains private.
 
-![IranCarYar customer app](docs/screenshots/iran-car-yar-home.png)
+![IranCarYar demo preview](docs/demo/iran-car-yar-demo-preview.gif)
 
 ## 30-Second Snapshot
 
@@ -77,9 +77,13 @@ See [docs/architecture.md](docs/architecture.md) for the system overview and req
 
 ## Demo
 
-A public hosted demo is not currently available. The screenshot and muted demo video in this repository were captured from the real project UI running in mock frontend mode.
+A public hosted demo is not currently available. The GIF preview, screenshot, and muted demo video in this repository were captured from the real project UI running in mock frontend mode.
 
-- Demo video: [muted IranCarYar recording](docs/demo/iran-car-yar-demo-muted.mp4)
+## Watch Full Demo
+
+The README uses a compressed GIF preview for fast GitHub loading. The full-quality muted MP4 is available here:
+
+[Watch the full IranCarYar demo](docs/demo/iran-car-yar-demo-muted.mp4)
 
 See [docs/demo.md](docs/demo.md) for the available demo material.
 
@@ -93,6 +97,7 @@ This public repository is not intended to be installed or run. It is a portfolio
 docs/
   architecture.md              System overview and request lifecycle diagrams
   demo.md                      Demo notes and screenshot provenance
+  demo/                        GIF preview and full-quality muted MP4
   public-release-checklist.md  Safety checklist for the private source repository
   screenshots/                 Real screenshots captured from the project UI
 ```

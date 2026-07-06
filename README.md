@@ -71,9 +71,9 @@ See [docs/architecture.md](docs/architecture.md) for the system overview and req
 
 ## Screenshots
 
-| Customer Experience |
-| --- |
-| ![Customer app screenshot](docs/screenshots/iran-car-yar-home.png) |
+| Customer App | Partner App |
+| --- | --- |
+| ![Customer app screenshot](docs/screenshots/iran-car-yar-customer.png) | ![Partner app screenshot](docs/screenshots/iran-car-yar-partner.png) |
 
 ## Demo
 

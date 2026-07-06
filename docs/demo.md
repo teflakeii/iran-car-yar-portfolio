@@ -6,7 +6,8 @@ The screenshot and demo recordings were captured from the real IranCarYar fronte
 
 ## Current Assets
 
-- `docs/screenshots/iran-car-yar-home.png`: customer-facing UI screenshot.
+- `docs/screenshots/iran-car-yar-customer.png`: customer-facing UI screenshot.
+- `docs/screenshots/iran-car-yar-partner.png`: partner-facing UI screenshot.
 - `docs/demo/iran-car-yar-demo-preview.gif`: optimized 8-second GIF preview for GitHub README rendering.
 - `docs/demo/iran-car-yar-demo-muted.mp4`: muted demo recording captured from the project UI.
 - `docs/architecture.md`: architecture, request lifecycle, and deployment topology diagrams.
